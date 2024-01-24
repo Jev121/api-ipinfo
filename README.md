@@ -10,7 +10,7 @@ To use this tool:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jev121/ipinfo.git
+   git clone https://github.com/jev121/api-ipinfo.git
    ```
 
 2. Deploy in pages.dev.
